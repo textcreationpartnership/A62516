@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A thunder-clap from New-Gate to the quaking saints of London their cabinet of iniquity unlookt, and laid open to publick view : wherein is discovered the querks, quillets, subtle whimsies and sophistical devises used by them to delude and ensnare the ignorant and unlearned to the disturbance of the peace of His Majesties kingdoms : also an exact narrative of their proceedings in the University of Newgate with their strange actings and devises to raise new commotions by divulging treasonable, seditious, and l'bellious papers throught the city of London : and the manner how they would have rays'd one Watson to life two hours after he was buried / written by J. J. ...</title>
+            <author>J. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62516</idno>
+            <idno type="STC">Wing T1137</idno>
+            <idno type="STC">ESTC R9102</idno>
+            <idno type="EEBO-CITATION">13534704</idno>
+            <idno type="OCLC">ocm 13534704</idno>
+            <idno type="VID">100040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100040)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 478:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A thunder-clap from New-Gate to the quaking saints of London their cabinet of iniquity unlookt, and laid open to publick view : wherein is discovered the querks, quillets, subtle whimsies and sophistical devises used by them to delude and ensnare the ignorant and unlearned to the disturbance of the peace of His Majesties kingdoms : also an exact narrative of their proceedings in the University of Newgate with their strange actings and devises to raise new commotions by divulging treasonable, seditious, and l'bellious papers throught the city of London : and the manner how they would have rays'd one Watson to life two hours after he was buried / written by J. J. ...</title>
+                  <author>J. J.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Coe for J. J. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100040:1"/>
+            <pb facs="tcp:100040:1" rendition="simple:additions"/>
+            <p>A THUNDER-CLAP FROM NEW-GATE TO THE Quaking Saints OF LONDON, Their Cabinet of Iniquity Unlookt, and laid open to publick view.</p>
+            <p>Wherein is diſcovered, the querks, quillets, ſubtle whimſies and ſophiſtical deviſes uſed by them, to delude and enſnare the ignorant and unlearned, to the diſturbance of the Peace of His Majeſties Kingdoms.</p>
+            <p>Alſo an exact Narrative of their proceedings in the Univerſity of <hi>Newgate,</hi> with their ſtrange actings, and deviſes to raiſe new Commotions, by divulging treaſonable, ſeditious and libellious papers through the City of <hi>London.</hi> And the manner how they would have rays'd one <hi>Watſon</hi> to life two hours after he was buried.</p>
+            <p>
+               <hi>Written by</hi> J. J. <hi>an eye witneſs of their proceedings; and Licenced according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Coe</hi> for <hi>J. J.</hi> and are to be ſold at the <hi>Royal Exchange</hi> in <hi>Cornhill,</hi> 1662.</p>
+            <pb facs="tcp:100040:2"/>
+            <p>
+               <hi>Academiae Cantabrigiensis Liber.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100040:2"/>
+            <head>A Thunder-clap FROM NEW-GATE TO THE London Quakers.</head>
+            <p>FIrſt I ſhall give you a Character of theſe new vampt Chriſtians call'd Quakers; A Quaker is a perſon who ſwallows ſhame like ſweet-Butte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, his Confidence car<g ref="char:EOLhyphen"/>ryes him beyond all Ordinances, he denys the Scripture to be a Rule of Holineſs, building his own foundation on the bottom of his own Hypocriſie, he is full of diſſimulation, a meer Crack-braind and ſelf-conceited piece of Impudence, he will not ſwear but lye without aime, Clouding all evil with a Cloak made of Yeas and Nays; He works altogether Sophiſti<g ref="char:EOLhyphen"/>cally, to inſnare the ignorant and unlearned, perſwading them that the word of God is but a dead Letter, and the life, light and power is in themſelves; He is the Spawn of an Anapabti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whoſe over-grown opinions (as he ſays) have brought him
+<pb n="2" facs="tcp:100040:3"/>through all evils to the height of perfection, ſo that he beleives and av<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ches he hath no further to go, but juſt to ſtep into Hea<g ref="char:EOLhyphen"/>ven it ſelf; he ſays further he cannot commit ſin or erre in any thing he acts, for he hath nothing but life &amp; light in him; whom he Curſe are damn'd, and whom he bleſſes (he conceives) ſhall be ſaved, he is a ſelf-conceited fire brand of Hell, ſent on earth as <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſet Nations togethe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ears: <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> full of flatte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and deceit <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat is all Government, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>den<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Magiſtracy, and owns no power but his own juſts, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſubjects <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> he owns all; but yet will not ſubmit to any ſupe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iour Officer, he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſwea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at all, yet will ſtand in a lye to the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, which makes him ſo rough in the throat that he cannot ſwal<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w the Oath of Allegiance more out of a ſelf-will'd humor th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atter of Conſcience, but for his own ends he will <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>og, Lye, H<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter, Diſſemble, and it may be rap out an Impreca<g ref="char:EOLhyphen"/>tion as bad as an Oath; hee'l pretend to plead only by reaſon, but it is his own reaſon, thwarting all others that oppoſe him, though contrary to reaſon, truth or Chriſtianity, he is an un<g ref="char:EOLhyphen"/>ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nerly impudent Fellow that hath not ſo much as moral Ci<g ref="char:EOLhyphen"/>vility; his Hat grows as fa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on his Head as his ears.</p>
+            <p>He is one that loves a priſon better then his Liberty, pretend<g ref="char:EOLhyphen"/>ing to glory in his ſuffering, not that he loves bonds, but rather that he may live in idleneſs, and be maintained by a Collection of the Brethren, who work to ſupply him with all varietyes of Belly-<gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and pomper him up with daint<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es as Pig, Mutton, Pye-Pork, Beef, and other daintys, (which I have been an eye Witneſs of) in ſo plentifull a manner as is not fit for ſuch miſ<g ref="char:EOLhyphen"/>creants, who Rebel againſt all Government, both Spiritual and Temporal.</p>
+            <p>The chief heads of theſe Belly-gods or Quaking Saints are old Jeſuiticall opinioniſts, who have travelled through other Coun<g ref="char:EOLhyphen"/>trys ſo long, that they are forced to return to their own; as <hi>Fiſher, Burrows, Baily,</hi> and ſeveral others, beſides a pratling <hi>Parrot</hi> that came lately from <hi>Rome,</hi> Who if they had continu<g ref="char:EOLhyphen"/>ed longer beyond Seas, might have had as g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Crop of Sediti<g ref="char:EOLhyphen"/>ous Members there, as here, ſince their return.</p>
+            <pb n="3" facs="tcp:100040:3"/>
+            <p>In fine, they are a mad; hair-b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an'd; bewitcht multitude who ſeek nothing more then to throw down powers and b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<g ref="char:EOLhyphen"/>doms into a confuſed Chaos, by diſſembling and drawing inno<g ref="char:EOLhyphen"/>cent ſouls into ete<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nal Captivity. Nay in a paper the pub<g ref="char:EOLhyphen"/>liſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lately they would appear to be Prophets.</p>
+            <q>
+               <l>To Propheſie they alſo do pretend,</l>
+               <l>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſay the world ſhall have a ſudden end;</l>
+               <l>Nay in ſhort ſpace they propheſie to know</l>
+               <l>In London-Streets for ſtones green graſs ſhall grow.</l>
+            </q>
+            <p>Thus do theſe lying Prophets, or confident Quaking Chriſti<g ref="char:EOLhyphen"/>ans unchriſtian then ſelves by their Impudent actions; for ſince their comming to New-gate for diſobeying the Act againſt pri<g ref="char:EOLhyphen"/>vate meetings, they did in contempt fling down Treaſonable Libels from the Leads into the Streets, on purpoſe to raiſe new Inſurrections in his Majeſtyes Kingdome; till they were pre<g ref="char:EOLhyphen"/>vented by the diligent care of the Ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er Keeper, by whoſe Or<g ref="char:EOLhyphen"/>der they were taken away, and ſeveral hundreds of them burned which were ſtufft with lyes and ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle deviſes to pervet the ig<g ref="char:EOLhyphen"/>norant and unlearned, to the great diſturbance of the peace of his Majeſtyes Kingdome.</p>
+            <p>But to give you a hint of the actions of theſe Metrapolitan diſſemblers, I ſhall inſert ſome few, here being only room in this ſheet to draw the Curtain from before theſe Quaking Pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pets. Not long ſince a Common ſtrumpet (being brought into <hi>New<g ref="char:EOLhyphen"/>gate</hi> for ſome notorious fact took notice of one of theſe black Saints, and ſaid, that the <hi>Monday</hi> before he would have given her mony if ſhe were free to ſatisfy his luſt, which ſhe would not conſent to at his price, all which he could not deny; for if ſhe had been as free as he, ſhe might ſoon have been made a fel<g ref="char:EOLhyphen"/>low creature, ſo that though they will not ſwear, they will lye with any body; and though they be perfect (as they ſay) yet ſome ſcu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f of fleſhly luſt is ſtill left behind, which like a ſcab doth make a ſlaw in the Scutchion of their purity.</p>
+            <pb n="4" facs="tcp:100040:4"/>
+            <p>This ſtory is much like that of their Phanatick Champion Cap. J. <hi>G.</hi> the devout <hi>Tanner,</hi> (a priſoner not long ſince in the ſame place) who acted a part of <hi>Tuquoque</hi> in <hi>Newgate</hi> on the Stage of a maid, after the <hi>Chillinden</hi> faſhion, as ſhe confeſſed, when he proved falſe to her, in not providing her a lodging and mar<g ref="char:EOLhyphen"/>rying her (according to promiſe) though he had a wife of his own at the ſame time.</p>
+            <p>For lying none can go beyond them, except ſome little De<g ref="char:EOLhyphen"/>vil ſhould leap out of the mouth of Grand Pluto, as will appear by the enſuing ſtory, <hi>viz.</hi>
+            </p>
+            <p>Some few weeks ſince one <hi>Watſon</hi> dyed (who was a priſoner amongſt theſe diſſembling converts) and his brother came the day following to fetch away his bed-cloths, which he brought down into the Lodg belonging to <hi>Newgate,</hi> whereupon the turn-key (fearing ſome of the Maſter Keepers cloths ſhould be amongſt them) deſired him to lay them down (intending to ſee whether there were or no) but he out of ſtubborneſs deny'd him, upon which, the Turn-key took hold of the rope that ty'd them, and pull'd them from him, which ſome of theſe lying Sophi<g ref="char:EOLhyphen"/>ſters ſeeing, preſently gave out a report, that three men fell upon him and kickt him up and down the Lodge, though they never toucht his body, as will (if occaſion require) be iuſtified by the teſtimony of ſeven or eight ſeveral witneſſes, who were then and there preſent.</p>
+            <p>One of their chief witneſſes was black-mouth'd <hi>Vulcan,</hi> or <hi>Mulciber</hi> the Black-ſmith of hell, (a turbulent fellow whom ſome call J. <hi>Bury</hi>) he blaz'd the report ſtrongly, and juſtified it ſtoutly, though when the buſineſs was acted, he was at leaſt four pair of ſtairs high, which muſt needs be an invallid Witneſs, ex<g ref="char:EOLhyphen"/>cept he had the art of Inſpection, and could ſee thorow four floores at once, or left his eyes hanging on the Iron Grates, as a Centry, to view this unthought of and unacted combate.</p>
+            <p>Another of the blind-guided tremblers was ſo unreverend, that when the ſervants were locking up the Jayle, he ſaid; If
+<pb n="5" facs="tcp:100040:4"/>they lock'd up the leads they were fools that lay above, if they did not take the Pulpit Cuſhion and empty it and eaſe their Bodies in the Caſe; If this be Chriſtianity Reaſon or plain honeſty, the Devil may well be Governour in a Common-Wealth of ſuch audacious Subjects.</p>
+            <p>Not long after the aforeſaid <hi>Watſon</hi> was buried, which being done, within two hours comes down one of the Lunatick brethren who ſitting in the Lodge, reſolved to work a mira<g ref="char:EOLhyphen"/>cle, and ſaid Ariſe, ariſe, ariſe from the dead, the Brethren waiting by him expecting <hi>Watſons</hi> coming again, but no <hi>Watſon</hi> appearing after he had ſaid it three times, the Turn-key ſhewd a greater miracle for he ſaid, ariſe and go up ſtairs, quoth he, I muſt not for I am commanded to ſtay for a time, upon which the Turn-key lifted him up, and no ſooner he was in a doors, but he was transported up ſtairs into the Leads where he was juddenly (for madneſs that he could not raiſe the dead) poſſeſt with the Devil, and with raving ſcreeking, howling, toſſing and tumbling, and other horrid noiſe he ſhock the roof, ſo that the Anabaptiſts who lay underneath could not reſt all night, affirming in the morning that he was poſſeſt with the Devil, which they that unlockt are able to witneſs.</p>
+            <p>Upon Munday the firſt of <hi>September,</hi> 1662: One of theſe mad bewitcht hypocrites was commanded by the Devil and their Jeſuitical Fathers to do penance, through <hi>Bartholmew-Fair</hi> with a pan of fire-coals on his head, which he did wil<g ref="char:EOLhyphen"/>lingly, as a Meritotious piece of madneſs, and ſtripping him<g ref="char:EOLhyphen"/>ſelf naked, he ſet the pan on his head with the fire burning, and ran round the Fair till he came to the Hoſpital gate, where he ſlung down the pan breaking it in pieces expreſſing ſome words not ſit to be inſerted by any but R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bels to their King and Country.</p>
+            <p>Great pity it was indeed that this ſhameleſs piece of mad<g ref="char:EOLhyphen"/>neſs went unpuniſhed, for had his back been well <hi>Nayle<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> a by the B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>adel it might have been a warning for the ſuture to all ſuch ſhameleſs pieces of madneſs, who neither fear God
+<pb n="6" facs="tcp:100040:5" rendition="simple:additions"/>honour the King nor believe in any thing but their own Luſts and inventions, thinking themſelves to be all in all.</p>
+            <p>Their manner of Burial is diſorderly and unhandſome, the Corps being put in a Coffin without a decent covering, con<g ref="char:EOLhyphen"/>trary to the cuſtom of all other Chriſtians. For two of them being Dead were brought by New-gate one being carried with the head formoſt the other with the head behind, ſo that they were turn'd tayle to tayle like <hi>Samſons</hi> Foxes, with a great gang of ſilly women following like, ſo many dumb ima<g ref="char:EOLhyphen"/>ges, and convey'd to the ground where they were flung in like Dogs without any word or Inſtruction to thoſe that accom<g ref="char:EOLhyphen"/>pany the Bodies of theſe Monſtrous Chriſtians.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100040:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
